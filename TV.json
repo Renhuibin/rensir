@@ -7,7 +7,7 @@
 "wallpaper":"./image-10.jpg",
 
 // 直播地址列表：密文地址：http://www.jsons.cn/base64/
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2E2LnRyYXZlbGx5LnN0b3JlOjg5ODgvMC9yZW5odWliaW4vSVRWLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1Jlbmh1aWJpbi9yZW5zaXIvYmxvYi9tYWluL0taQi5tM3U="]}]}],
 
 // 点播地址列表：
 "sites":[
